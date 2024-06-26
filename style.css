@@ -1,0 +1,53 @@
+.box {
+    border: 2px solid black;
+    width: 30%;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.section {
+    border: 2px solid black;
+    margin: 3px;
+    padding-top: 3px;
+    border-radius: 10px;
+}
+
+.input {
+    border-bottom: 2px solid black;
+    padding: 3px;
+}
+
+.input input {
+    width: 70%;
+    border-radius: 10px;
+    height: 1.7em;
+}
+
+.input button {
+    width: 20%;
+    border-radius: 10px;
+    height: 2.1em;
+    background-color: black;
+    color: white;
+}
+
+li {
+    height: 30px;
+    width: 300px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    padding: 8px 9px 0 8px;
+    margin: 2px 0 2px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+li button {
+    background-color: black;
+    color: white;
+    height: 20px;
+    border: 1px solid white;
+    border-radius: 20px;
+}
